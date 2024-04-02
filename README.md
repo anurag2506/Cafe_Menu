@@ -1,4 +1,4 @@
-<h1>>GDSC CAFE</h1>
+<h1>GDSC CAFE</h1>
 <br>
 <h5>The GDSC of IITI presents you with the delicacies of the gdsc cafe</h5>
 <br> 
